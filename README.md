@@ -10,7 +10,9 @@ I'm a Senior Software Developer with 7.5+ years of experience in Finance, Bankin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnkitK1993&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnkitK1993&theme=dark&hide_border=true)<br/>
-![](https://streak-stats.demolab.com?user=AnkitK1993&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph)<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AnkitK1993&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitK1993&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
