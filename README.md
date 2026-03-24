@@ -15,6 +15,7 @@ I'm a Senior Software Developer with 7.5+ years of experience in Finance, Bankin
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=AnkitK1993&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitK1993&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
