@@ -11,9 +11,12 @@ I'm a Senior Software Developer with 7.5+ years of experience in Finance, Bankin
 ![](https://github-readme-stats.vercel.app/api?username=AnkitK1993&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnkitK1993&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitK1993&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=AnkitK1993&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AnkitK1993/AnkitK1993/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
